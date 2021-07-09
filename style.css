@@ -1,0 +1,37 @@
+section{
+	background-color: rgb(19,95,108);
+	position:relative;
+	left:30%;
+	border:5px double black;
+	width:30%;
+	margin:5%;
+	padding:1%;
+	color:white ;
+	text-align:center;
+}
+
+article{
+	margin:0.5%;
+	padding:0.5%;
+	display:inline-block;
+	vertical-align:top;
+}
+h2{
+	font-family:"Bell MT",sans-serif;
+}
+h3{
+	font-family:"Franklin Gothic Medium",sans-serif;
+	font-style:italic;
+}
+aside ul{
+	margin:0.5%;
+	padding:0.5%;
+	display:inline-block;
+}
+ul li{
+	list-style-type:none;
+}
+figcaption{
+	font-size:small;
+	word-wrap:break-word;
+}
